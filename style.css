@@ -1,0 +1,13 @@
+h1 {
+    color: red;
+    background-color: black;
+    font-weight: bold;
+    text-align: center;
+}
+
+li {
+    color: rgb(160, 100, 0);
+    background-color: white;
+    font-weight: normal;
+    text-align: left;
+}
